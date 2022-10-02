@@ -1,0 +1,5 @@
+﻿  BinarySearchTree.cpp
+C:\Users\Adi\source\repos\BinarySearchTree\BinarySearchTree\BinarySearchTree.cpp(215,9): warning C4101: 'parinte': unreferenced local variable
+C:\Users\Adi\source\repos\BinarySearchTree\BinarySearchTree\BinarySearchTree.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\BinarySearchTree\BinarySearchTree\BinarySearchTree.cpp(317): warning C4715: 'SearchTree::getPredecessor': not all control paths return a value
+  BinarySearchTree.vcxproj -> C:\Users\Adi\source\repos\BinarySearchTree\Debug\BinarySearchTree.exe
